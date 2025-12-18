@@ -5,9 +5,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quam mauris, ull
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivian.srodrigues19@gmail.com) 
 ---  
 ### Linguagens e Tecnologias 
-<img alt='HTML' width ='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img alt='CSS' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img alt='Python'width ='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+<img alt='HTML' width ='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /> <img alt='CSS' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img alt='Python' width ='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
 
 ### Estatísticas
 
