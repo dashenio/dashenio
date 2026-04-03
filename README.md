@@ -2,7 +2,7 @@
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
 
-<p style="font-size:24px; font-weight:bold;">Olá!👋</p>
+<font size="5"><strong>Olá!</strong>👋</font>
 
 <p style="font-size:18px;">Sou uma desenvolvedora fullstack em formação pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.</p>
 <p>Atualmente moro no Rio de Janeiro.</p>
@@ -10,14 +10,17 @@
 <br>
 <br>
 
- <div style="display: flex; gap: 5px;">
+ <div style="display:flex; gap:7px;">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-srodrigues/)
+</div>
+<div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viviansrodrigues11@gmail.com)
+</div> 
 </div>
 
-------
 ## Linguagens e Tecnologias
 
 <div style="display: flex; gap: 5px;">
