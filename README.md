@@ -10,16 +10,8 @@ Atualmente moro no Rio de Janeiro.
 <br>
 <br>
 
- <div style="display:flex; gap:7px;">
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-srodrigues/)
-</div>
-<div>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viviansrodrigues11@gmail.com)
-</div> 
-</div>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-srodrigues/) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viviansrodrigues11@gmail.com)
 
 ## Linguagens e Tecnologias
 
