@@ -7,9 +7,9 @@
              alt="Waving Hand Medium Skin Tone" width="50" height="50" /> 
         <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22">     
     </div>
-    <div>
-        Sou uma desenvolvedora fullstack formada pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.
-        Atualmente moro no Rio de Janeiro.
+    <div style="display: flex; align-items: center; gap: 5px;">
+        <p>Sou uma desenvolvedora fullstack formada pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.</p>
+        <p>Atualmente moro no Rio de Janeiro.</p>
     </div>
 
 </div>
