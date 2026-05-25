@@ -1,16 +1,15 @@
 
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
-<div style="display: flex; flex-direction: column; gap: 10px">
+<div style="display: flex; flex-direction: column; gap: 15px;">
     <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png"
-             alt="Waving Hand Medium Skin Tone" width="50" height="50" /> 
-        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22">     
+        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium%20Skin%20Tone.png" alt="Vulcan Salute" width="50" height="50" />
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
-        <p>Sou uma desenvolvedora fullstack formada pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.</p>
-        <p>Atualmente moro no Rio de Janeiro.</p>
-    </div>
+    <p style="text-align: justify; margin: 0; line-height: 1.6;">
+        Sou do Rio de Janeiro e minha história com a tecnologia começou de um jeito que muitos entusiastas de estratégia vão entender: através do RPG. Sabe aquela satisfação de analisar um cenário complexo, otimizar recursos e traçar a estratégia perfeita para resolver um desafio? Percebi que essa é exatamente a mesma energia que me move quando estou diante de uma linha de código.
+        Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack em formação pela Generation Brasil. Decidi migrar para a tecnologia para transformar essa afinidade natural com a lógica em soluções reais, funcionais e que impactem positivamente o dia a dia das pessoas.
+    </p>
 
 </div>
 
