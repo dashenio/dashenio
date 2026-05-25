@@ -1,12 +1,20 @@
 
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
+<div style="display: flex; flex-direction: column; gap: 10px">
+    <div style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png"
+             alt="Waving Hand Medium Skin Tone" width="50" height="50" /> 
+        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22">     
+    </div>
+    <div>
+        Sou uma desenvolvedora fullstack formada pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.
+        Atualmente moro no Rio de Janeiro.
+    </div>
 
-<font size="5"><strong>Olá!</strong>👋</font><br>
-Sou uma desenvolvedora fullstack em formação pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.
-Atualmente moro no Rio de Janeiro.
+</div>
 
-<br>
+
 <br>
 
 
