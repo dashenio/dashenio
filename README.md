@@ -2,9 +2,12 @@
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
 
-<font size="5"><strong>Olá!</strong>👋</font><br>
-Sou uma desenvolvedora fullstack em formação pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.
+<div align="left">
+  <span style="font-size: 2em; font-weight: bold;">Olá! 👋</span><br>
+  Sou uma desenvolvedora fullstack em formação pela Generation Brasil e graduanda de Análise e Desenvolvimento de Sistemas no Senac.
 Atualmente moro no Rio de Janeiro.
+</div>
+
 
 <br>
 <br>
