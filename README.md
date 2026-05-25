@@ -1,10 +1,10 @@
 
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
-<div style="display: flex; flex-direction: column; gap: 15px;">
+<div style="display: flex; flex-direction: column;">
     <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium%20Skin%20Tone.png" alt="Vulcan Salute" width="50" height="50" />
+        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">    
     </div>
     <br>
     <p style="text-align: justify; margin: 0; line-height: 1.6;">
