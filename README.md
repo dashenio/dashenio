@@ -6,10 +6,9 @@
         <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">    
     </div>
     <br>
-    <p>
         Sou do Rio de Janeiro e minha história com a tecnologia começou de um jeito que muitos entusiastas de estratégia vão entender: através do RPG. Sabe aquela satisfação de analisar um cenário complexo, otimizar recursos e traçar a estratégia perfeita para resolver um desafio? Percebi que essa é exatamente a mesma energia que me move quando estou diante de uma linha de código.
         Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack em formação pela Generation Brasil. Decidi migrar para a tecnologia para transformar essa afinidade natural com a lógica em soluções reais, funcionais e que impactem positivamente o dia a dia das pessoas.
-    </p>
+
 
 
 
