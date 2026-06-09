@@ -1,9 +1,9 @@
 
 #  Vivian Rodrigues <img src='https://www.codewars.com/users/dashenio/badges/micro'>
 <br>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; align-items: baseline; gap: 10px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium%20Skin%20Tone.png" alt="Vulcan Salute" width="50" height="50" />
-        <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">    
+        <img src="https://ik.imagekit.io/dashen/svgviewer-output(1).svg" height="30" alt="Olá">    
     </div>
     <br>
 <p align="justify">    
