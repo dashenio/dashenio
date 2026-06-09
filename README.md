@@ -6,8 +6,10 @@
         <img src="https://ik.imagekit.io/dashen/ola.svg?updatedAt=1779729664648" height="22" alt="Olá">    
     </div>
     <br>
-Sou do Rio de Janeiro e minha história com a tecnologia começou de um jeito que muitos entusiastas de estratégia vão entender: através do RPG. Sabe aquela satisfação de analisar um cenário complexo, otimizar recursos e traçar a estratégia perfeita para resolver um desafio? Percebi que essa é exatamente a mesma energia que me move quando estou diante de uma linha de código.
-Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack em formação pela Generation Brasil. Decidi migrar para a tecnologia para transformar essa afinidade natural com a lógica em soluções reais, funcionais e que impactem positivamente o dia a dia das pessoas.
+<p align="justify">    
+Sou do Rio de Janeiro e minha história com a tecnologia começou de um jeito que muitos entusiastas de estratégia vão entender: através do RPG. Sabe aquela satisfação de analisar um cenário complexo, otimizar recursos e traçar a estratégia perfeita para resolver um desafio? Percebi que essa é exatamente a mesma energia que me move quando estou diante de uma linha de código. <br>
+Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack formada pela Generation Brasil. Decidi migrar para a tecnologia para transformar essa afinidade natural com a lógica em soluções reais, funcionais e que impactem positivamente o dia a dia das pessoas.
+</p>
 <br>        
 <br>
 
@@ -35,8 +37,15 @@ Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack em formação p
 
 <img alt='CSS' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img alt='Python' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+<img alt='Python' width='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+## Projetos Colaborativos
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VivaCare &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FitCare &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NutriCare &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: | :---: | :---: |
+| <img src="https://ik.imagekit.io/vjqejp2vh/VivaCare/Logo%20VivaCare%20Clara.png?updatedAt=1777032061555" width="50"><br>[Frontend](https://github.com/Javascript13-Grupo02/Projeto-Integrador-06-VivaCare-Frontend) <br> [Backend](https://github.com/Javascript13-Grupo02/Projeto-integrador-03-VivaCare) | <img src="https://ik.imagekit.io/vjqejp2vh/FitCare%20Logo%20Clara.png?updatedAt=1776349327478" width="50"><br>[Frontend](https://github.com/Javascript13-Grupo02/Projeto-integrador-05-FitCare-Frontend) <br> [Backend](https://github.com/Javascript13-Grupo02/Projeto-integrador-02-FitCare) | <img src="https://ik.imagekit.io/vjqejp2vh/Logo%20NutriCare%20Transparente.png" width="50"><br>[Frontend](https://github.com/Javascript13-Grupo02/-Projeto-integrador-04-NutriCare-Frontend) <br> [Backend](https://github.com/Javascript13-Grupo02/Projeto-integrador-01-NutriCare) |
+
+
           
           
           
