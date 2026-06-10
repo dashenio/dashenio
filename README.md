@@ -11,11 +11,12 @@ Sou do Rio de Janeiro e minha história com a tecnologia começou de um jeito qu
 Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack formada pela Generation Brasil. Decidi migrar para a tecnologia para transformar essa afinidade natural com a lógica em soluções reais, funcionais e que impactem positivamente o dia a dia das pessoas.
 </p>
 <br>        
-<br>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-srodrigues/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viviansrodrigues11@gmail.com)
 
+<br>
 
 ## Linguagens e Tecnologias
 
@@ -38,6 +39,8 @@ Hoje, sou estudante de ADS e desenvolvedora JavaScript Fullstack formada pela Ge
 <img alt='CSS' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img alt='Python' width='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br>
+<br>
 
 ## Projetos Colaborativos
 
